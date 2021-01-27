@@ -1,0 +1,8 @@
+Delhi-Delhi
+Nagpur-Maharastra
+Patna-Bihar
+Pune-Maharastra
+Ahmedabad-Gujarat
+Bangalore-Karnataka
+Hyderabad-Telangana
+Agra-Uttar Pradesh
